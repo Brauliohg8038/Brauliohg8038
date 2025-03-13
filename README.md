@@ -1,5 +1,20 @@
 # 💫 About Me:
-👋 ¡Hola! Soy un analista de datos apasionado por convertir datos en decisiones estratégicas. Actualmente trabajo en proyectos que combinan análisis, visualizaciones avanzadas y storytelling con datos.<br><br>🔍 Mis intereses principales incluyen:<br>Análisis predictivo y exploratorio utilizando Python.<br>Creación de dashboards interactivos con herramientas como Dash, Plotly, Power BI o Tableu.<br>Exploración de datos de mercado y tendencias.<br><br>📊 En mis proyectos me enfoco en:<br>Extraer insights valiosos para empresas a partir de grandes volúmenes de datos.<br>Diseñar visualizaciones impactantes que faciliten la toma de decisiones.<br>Documentar mis procesos para compartir conocimiento con la comunidad.<br><br>🚀 Mi meta es contribuir al desarrollo de proyectos que impulsen la innovación basada en datos y resolver problemas complejos de manera creativa.<br><br>✨ No dudes en contactarme. ¡Siempre estoy abierto a nuevos desafíos y oportunidades para crecer como profesional!<br><br>
+👋 ¡Hola! Soy Braulio, un Analista de Datos y Administrador de Empresas interesado por transformar datos en decisiones estratégicas. Actualmente trabajo en proyectos que combinan análisis, visualizaciones avanzadas y storytelling con datos.
+
+🔧 **Habilidades técnicas:**
+- **Python**: Experiencia en análisis predictivo y exploratorio con librerías como Pandas, NumPy, Scikit-learn y Matplotlib.
+- **Visualización de datos**: Creación de dashboards interactivos con Dash, Plotly, Power BI y Tableau.
+- **SQL**: Manejo avanzado de bases de datos para extracción y manipulación de datos.
+- **Machine Learning**: Conocimientos en modelos de regresión, clasificación y clustering.
+
+
+🏆 **Certificaciones:**
+- Certificado Professional en Data Analyst por IBM.
+- Certificación en Power BI por Camara de Comercio Exterior.
+- Certificación en Databases and SQL for Data Science with Python por IBM.
+
+📩 **¡Conectemos!**
+Si estás interesado en colaborar en proyectos de análisis de datos, visualización o simplemente quieres hablar de datos, no dudes en contactarme. Puedes encontrarme en [LinkedIn (https://linkedin.com/in/www.linkedin.com/in/braulio-herrerag)] o enviarme un correo a braulioherre98@gmail.com.
 
 
 ## 🌐 Socials:
@@ -11,9 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Brauliohg8038&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Brauliohg8038&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliohg8038&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Brauliohg8038&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Brauliohg8038&icon=0&color=0)](https://visitcount.itsvg.in)
