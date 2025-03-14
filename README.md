@@ -15,7 +15,7 @@
 
 🚀 **Proyectos destacados:**
 - Análisis de Cotizaciones en Bolsa de empresas Tecnológicas. Enlace: (https://github.com/Brauliohg8038/Analisis-Acciones)
-- Análisis de Campañas de Marketing 2024. Enlace: 
+- Análisis de Campañas de Marketing 2024. Enlace: (https://github.com/Brauliohg8038/Analisis-de-Marketing)
 
 📩 **¡Conectemos!**
 Si estás interesado en colaborar en proyectos de análisis de datos, visualización o simplemente quieres hablar de datos, no dudes en contactarme. Puedes encontrarme en LinkedIn o enviarme un correo a braulioherre98@gmail.com.
