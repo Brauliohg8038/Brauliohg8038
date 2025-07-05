@@ -9,7 +9,7 @@
 
 
 🏆 **Certificaciones:**
-- Certificado Professional en Data Analyst por IBM.
+- Certificado Professional Data Analyst por IBM.
 - Certificación en Power BI por Camara de Comercio Exterior.
 - Certificación en Databases and SQL for Data Science with Python por IBM.
 
@@ -18,7 +18,7 @@
 - Análisis de Campañas de Marketing 2024. Enlace: (https://github.com/Brauliohg8038/Analisis-de-Marketing)
 
 📩 **¡Conectemos!**
-Si estás interesado en colaborar en proyectos de análisis de datos, visualización o simplemente quieres hablar de datos, no dudes en contactarme. Puedes encontrarme en LinkedIn o enviarme un correo a braulioherre98@gmail.com.
+Si estás interesado en colaborar en proyectos de análisis de datos, visualización o simplemente quieres hablar de datos, no dudes en contactarme. Puedes encontrarme en LinkedIn o enviarme un correo a braulioherre98@gmail.com
 
 
 ## 🌐 Socials:
